@@ -1,4 +1,4 @@
-# House Price Prediction Project
+# House Price Prediction Project - BY varunreddykunnam, G01476214
 
 ## Project Overview
 This project will apply several machine learning models in the prediction of house prices. These house prices can be determined by different features that may describe the houses, such as location and size. The regression models to predict actual prices, classification to classify houses into higher or lower categories based on median, and clustering for discovering patterns in housing data are applied in this project.
